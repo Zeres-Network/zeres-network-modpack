@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "server": {
+    "host": "mc.zeres.fun",
+    "port": 25565
+  },
+  "instances": {
+    "zeres": {
+      "name": "Zeres Network",
+      "version": "1.21.1",
+      "minecraft": "1.21.1"
+    },
+    "cobblemon": {
+      "name": "Zeres Cobblemon",
+      "version": "0.1.0",
+      "mrpack": "https://github.com/Days16/zeres-network-modpack/releases/download/cobblemon-0.1.0/zeres-cobblemon-0.1.0.mrpack",
+      "sha1": "36b79024d5705d101f0d8fa374ec02c4af397591"
+    }
+  },
+  "news": [
+    {
+      "tag": "LAUNCHER",
+      "title": "Beta 0.1.0",
+      "text": "Primera versión del launcher de Zeres Network."
+    }
+  ]
+}

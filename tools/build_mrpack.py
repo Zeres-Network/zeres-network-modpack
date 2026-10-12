@@ -40,6 +40,14 @@ def main():
         z.writestr("modrinth.index.json", json.dumps(index, indent=2))
         for j in overrides:
             z.writestr("overrides/mods/" + j["name"], j["data"])
+        # configuracion por defecto (cobblemon/overrides/...): el launcher solo la copia si el jugador no la tiene
+        extra = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "cobblemon", "overrides")
+        for root, _, names in os.walk(extra):
+            for n in names:
+                full = os.path.join(root, n)
+                rel = os.path.relpath(full, extra).replace(os.sep, "/")
+                z.write(full, "overrides/" + rel)
+                print("   config:", rel)
     print("Modrinth:", len(files), "| dentro del pack:", len(overrides))
     for j in overrides:
         print("   pack:", j["name"])

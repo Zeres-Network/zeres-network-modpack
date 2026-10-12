@@ -12,21 +12,21 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.4",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.4/zeres-cobblemon-0.1.4.mrpack",
-      "sha1": "0f7145adb1e2865f66caf774db8e3bae1f529796",
+      "version": "0.1.5",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.5/zeres-cobblemon-0.1.5.mrpack",
+      "sha1": "682e6b446e991050ddfd2addaf40ad9741701d15",
       "notes": [
-        "Nuevo rótulo COBBLEMON en la portada",
-        "Opciones con el estilo de Zeres",
-        "Menús del Pokepad más grandes y fáciles de leer (Trabajos, Battle Pass, Rankup...)"
+        "Al pasar el ratón por un objeto en los menús se ve qué es",
+        "El GTS muestra PokeCoins",
+        "Opciones por defecto más ligeras para jugadores nuevos"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.4",
-      "text": "Nuevo rótulo COBBLEMON en la portada"
+      "title": "Modpack 0.1.5",
+      "text": "Al pasar el ratón por un objeto en los menús se ve qué es"
     }
   ]
 }

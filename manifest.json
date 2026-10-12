@@ -12,16 +12,16 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.0",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.0/zeres-cobblemon-0.1.0.mrpack",
-      "sha1": "36b79024d5705d101f0d8fa374ec02c4af397591"
+      "version": "0.1.1",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.1/zeres-cobblemon-0.1.1.mrpack",
+      "sha1": "8525d75d4a8b5cd2ac2d5800ac58117cd3edfc92"
     }
   },
   "news": [
     {
-      "tag": "LAUNCHER",
-      "title": "Beta 0.1.0",
-      "text": "Primera versión del launcher de Zeres Network."
+      "tag": "COBBLEMON",
+      "title": "Modpack 0.1.1",
+      "text": "Nueva portada de Zeres, menú de pausa y ventana con el nombre e icono de Zeres."
     }
   ]
 }

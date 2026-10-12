@@ -1,6 +1,6 @@
 # Zeres Network Modpack
 
-Modpacks que descarga el [Zeres Launcher](https://github.com/Days16/zeres-launcher).
+Modpacks que descarga el [Zeres Launcher](https://github.com/Zeres-Network/zeres-launcher).
 
 - `manifest.json`: qué versión toca para cada instancia del launcher (`zeres` = Minecraft sin mods, `cobblemon` = Fabric + modpack) y la IP de la network.
 - Los `.mrpack` (formato de Modrinth) van como archivos de cada **Release** (`cobblemon-<versión>`). Los mods públicos se bajan del CDN de Modrinth; dentro del pack solo van los propios (ZeresClient).

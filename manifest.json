@@ -12,21 +12,21 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.1",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.1/zeres-cobblemon-0.1.1.mrpack",
-      "sha1": "8525d75d4a8b5cd2ac2d5800ac58117cd3edfc92",
+      "version": "0.1.2",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.2/zeres-cobblemon-0.1.2.mrpack",
+      "sha1": "ffa9a69400ff0d0f0bab03842980e5171b5e5d42",
       "notes": [
-        "Nueva portada de Zeres: pulsa Jugar y entras directo al servidor.",
-        "Menú de pausa nuevo.",
-        "La ventana del juego se llama Zeres Network y lleva el icono de Zeres."
+        "El icono de la ventana del juego ahora es la Z pixelada del logo de Zeres Network.",
+        "Portada de Zeres: pulsa Jugar y entras directo al servidor.",
+        "Menú de pausa nuevo y ventana con el nombre Zeres Network."
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.1",
-      "text": "Nueva portada de Zeres, menú de pausa y ventana con el nombre e icono de Zeres."
+      "title": "Modpack 0.1.2",
+      "text": "Nuevo icono de la ventana del juego."
     }
   ]
 }

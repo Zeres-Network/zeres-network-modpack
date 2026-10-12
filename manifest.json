@@ -12,21 +12,19 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.5",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.5/zeres-cobblemon-0.1.5.mrpack",
-      "sha1": "682e6b446e991050ddfd2addaf40ad9741701d15",
+      "version": "0.1.6",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.6/zeres-cobblemon-0.1.6.mrpack",
+      "sha1": "b5c5ea5c00c367702293ad47fb20e57bf7979218",
       "notes": [
-        "Al pasar el ratón por un objeto en los menús se ve qué es",
-        "El GTS muestra PokeCoins",
-        "Opciones por defecto más ligeras para jugadores nuevos"
+        "Tooltips en las misiones: objetos a elegir, recompensas, monedas y XP (tambien en las diarias)"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.5",
-      "text": "Al pasar el ratón por un objeto en los menús se ve qué es"
+      "title": "Modpack 0.1.6",
+      "text": "Tooltips en las misiones: objetos a elegir, recompensas, monedas y XP (tambien en las diarias)"
     }
   ]
 }

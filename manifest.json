@@ -12,19 +12,19 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.9",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.9/zeres-cobblemon-0.1.9.mrpack",
-      "sha1": "2885b0c06d1fbbe97133a0253dbf4191cd23c013",
+      "version": "0.1.10",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.10/zeres-cobblemon-0.1.10.mrpack",
+      "sha1": "5bea921e46d85d1e42d9199de062bed5ff279b4c",
       "notes": [
-        "Portada: cuenta con la que entras y su skin encima de la IP"
+        "Pokepad: botones de Regiones y Generaciones; Cazas abre el menu de caza y Tesoros los tesoros"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.9",
-      "text": "Portada: cuenta con la que entras y su skin encima de la IP"
+      "title": "Modpack 0.1.10",
+      "text": "Pokepad: botones de Regiones y Generaciones; Cazas abre el menu de caza y Tesoros los tesoros"
     }
   ]
 }

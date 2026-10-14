@@ -12,19 +12,20 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.10",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.10/zeres-cobblemon-0.1.10.mrpack",
-      "sha1": "5bea921e46d85d1e42d9199de062bed5ff279b4c",
+      "version": "0.1.11",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.11/zeres-cobblemon-0.1.11.mrpack",
+      "sha1": "3a30ac8a860bc9d4ab79d8b52f46862e1ae46ce7",
       "notes": [
-        "Pokepad: botones de Regiones y Generaciones; Cazas abre el menu de caza y Tesoros los tesoros"
+        "Pokepad: menus desactivados salen bloqueados",
+        "El seguimiento de misiones ya no se sale de la pantalla (parte las lineas largas)"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.10",
-      "text": "Pokepad: botones de Regiones y Generaciones; Cazas abre el menu de caza y Tesoros los tesoros"
+      "title": "Modpack 0.1.11",
+      "text": "Pokepad: menus desactivados salen bloqueados"
     }
   ]
 }

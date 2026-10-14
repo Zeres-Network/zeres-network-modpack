@@ -12,19 +12,19 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.7",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.7/zeres-cobblemon-0.1.7.mrpack",
-      "sha1": "d76cec870dbf4721aca35e998c66ec712c536158",
+      "version": "0.1.8",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.8/zeres-cobblemon-0.1.8.mrpack",
+      "sha1": "aa341bc44559dd68d63b8ef10195a1585a99e00c",
       "notes": [
-        "Tooltips en las misiones: objetos a elegir, recompensas, monedas y XP (tambien en las diarias)"
+        "Tradeos: los Pokemon se ven en la pantalla del tradeo"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.7",
-      "text": "Tooltips en las misiones: objetos a elegir, recompensas, monedas y XP (tambien en las diarias)"
+      "title": "Modpack 0.1.8",
+      "text": "Tradeos: los Pokemon se ven en la pantalla del tradeo"
     }
   ]
 }

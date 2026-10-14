@@ -8,6 +8,8 @@ import json, os, subprocess, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO = "Zeres-Network/zeres-network-modpack"
 MODS = r"C:/Users/Administrator/AppData/Roaming/PrismLauncher/instances/server prueba fabric v2/minecraft/mods"
+# Con el juego abierto se puede publicar desde una copia de la carpeta: ZERES_MODS_DIR=<carpeta>
+MODS = os.environ.get("ZERES_MODS_DIR", MODS)
 OPTIONAL = "xaerominimap,xaeroworldmap"
 EXCLUDE = "axiom,flashback,litematica,malilib,worldedit,fabric-api-0.116.13,.bak"
 

@@ -12,19 +12,19 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.12",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.12/zeres-cobblemon-0.1.12.mrpack",
-      "sha1": "297f65503c1c8f918f19d309aa67bdf7dc04f943",
+      "version": "0.1.13",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.13/zeres-cobblemon-0.1.13.mrpack",
+      "sha1": "ae25a262deed780464dcc5825fd946160ae0ff29",
       "notes": [
-        "En primera persona ya no se ve tu propia placa (nivel) al mirar hacia arriba"
+        "Boton para volver al Pokepad en todos los menus (la lente azul de arriba a la izquierda)"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.12",
-      "text": "En primera persona ya no se ve tu propia placa (nivel) al mirar hacia arriba"
+      "title": "Modpack 0.1.13",
+      "text": "Boton para volver al Pokepad en todos los menus (la lente azul de arriba a la izquierda)"
     }
   ]
 }

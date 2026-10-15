@@ -17,7 +17,8 @@
       "sha1": "088e9e88376797e4e747f22cf8f8396cb0402959",
       "notes": [
         "Zonas de caza: flecha y distancia arriba y waypoint en Xaero para las misiones con zona"
-      ]
+      ],
+      "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
   },
   "news": [

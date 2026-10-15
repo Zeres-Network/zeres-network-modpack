@@ -12,20 +12,19 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.14",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.14/zeres-cobblemon-0.1.14.mrpack",
-      "sha1": "b04c203522748ddb62d02c5d61133473f1a8a861",
+      "version": "0.1.15",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.15/zeres-cobblemon-0.1.15.mrpack",
+      "sha1": "088e9e88376797e4e747f22cf8f8396cb0402959",
       "notes": [
-        "En combate se ocultan las barras de arriba para que se vea el contador de turnos",
-        "Menu de regiones sin tooltips"
+        "Zonas de caza: flecha y distancia arriba y waypoint en Xaero para las misiones con zona"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.14",
-      "text": "En combate se ocultan las barras de arriba para que se vea el contador de turnos"
+      "title": "Modpack 0.1.15",
+      "text": "Zonas de caza: flecha y distancia arriba y waypoint en Xaero para las misiones con zona"
     }
   ]
 }

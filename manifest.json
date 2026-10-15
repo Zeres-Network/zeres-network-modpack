@@ -12,19 +12,20 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.13",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.13/zeres-cobblemon-0.1.13.mrpack",
-      "sha1": "ae25a262deed780464dcc5825fd946160ae0ff29",
+      "version": "0.1.14",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.14/zeres-cobblemon-0.1.14.mrpack",
+      "sha1": "b04c203522748ddb62d02c5d61133473f1a8a861",
       "notes": [
-        "Boton para volver al Pokepad en todos los menus (la lente azul de arriba a la izquierda)"
+        "En combate se ocultan las barras de arriba para que se vea el contador de turnos",
+        "Menu de regiones sin tooltips"
       ]
     }
   },
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.13",
-      "text": "Boton para volver al Pokepad en todos los menus (la lente azul de arriba a la izquierda)"
+      "title": "Modpack 0.1.14",
+      "text": "En combate se ocultan las barras de arriba para que se vea el contador de turnos"
     }
   ]
 }

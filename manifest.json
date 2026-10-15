@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.15",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.15/zeres-cobblemon-0.1.15.mrpack",
-      "sha1": "088e9e88376797e4e747f22cf8f8396cb0402959",
+      "version": "0.1.16",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.16/zeres-cobblemon-0.1.16.mrpack",
+      "sha1": "7c6a55543102513a5a1d31ba92e328467fc331f5",
       "notes": [
-        "Zonas de caza: flecha y distancia arriba y waypoint en Xaero para las misiones con zona"
+        "Nuevo /report: avisa de fallos, cosas que no cuadran o sugerencias desde el Pokepad (botón Reportar en Comunidad)."
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.15",
-      "text": "Zonas de caza: flecha y distancia arriba y waypoint en Xaero para las misiones con zona"
+      "title": "Modpack 0.1.16",
+      "text": "Nuevo /report: avisa de fallos, cosas que no cuadran o sugerencias desde el Pokepad (botón Reportar en Comunidad)."
     }
   ]
 }

@@ -23,6 +23,9 @@ def main():
                           "--optional", OPTIONAL, "--exclude", EXCLUDE], capture_output=True, text=True, check=True)
     print(res.stdout)
     sha1 = next(l.split()[1] for l in res.stdout.splitlines() if l.startswith("sha1:"))
+    # lista de mods permitidos para el servidor (config/zeresserver/mods-permitidos.txt): hay que subirla si cambia
+    subprocess.run([sys.executable, os.path.join(ROOT, "tools", "mod_ids.py"), MODS, "--exclude", EXCLUDE,
+                    "--out", os.path.join(ROOT, "cobblemon", "mods-permitidos.txt")], check=True)
     tag = f"cobblemon-{version}"
     subprocess.run(["gh", "release", "create", tag, out, "--repo", REPO, "--title", f"Zeres Cobblemon {version}",
                     "--notes", "\n".join("- " + n for n in notes)], check=True)

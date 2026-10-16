@@ -8,3 +8,4 @@ biomeBlendRadius:1
 mipmapLevels:2
 enableVsync:false
 lang:es_es
+guiScale:3

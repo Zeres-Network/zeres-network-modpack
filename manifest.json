@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.19",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.19/zeres-cobblemon-0.1.19.mrpack",
-      "sha1": "f36c5f13ee3ca91b871a0b6bd77b43a0eb1d9096",
+      "version": "0.1.20",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.20/zeres-cobblemon-0.1.20.mrpack",
+      "sha1": "2a6dda0059b8d0e8cebb302dbc80e5120bb33a0b",
       "notes": [
-        "El texto del objetivo ya no se sale de la tarjeta en el diario de misiones."
+        "Rankup: confirmación al subir, nombres de rango y barras sin solaparse; /horas renovado; editor de tesoros"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.19",
-      "text": "El texto del objetivo ya no se sale de la tarjeta en el diario de misiones."
+      "title": "Modpack 0.1.20",
+      "text": "Rankup: confirmación al subir, nombres de rango y barras sin solaparse; /horas renovado; editor de tesoros"
     }
   ]
 }

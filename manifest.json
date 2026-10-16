@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.20",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.20/zeres-cobblemon-0.1.20.mrpack",
-      "sha1": "2a6dda0059b8d0e8cebb302dbc80e5120bb33a0b",
+      "version": "0.1.21",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.21/zeres-cobblemon-0.1.21.mrpack",
+      "sha1": "a85af6e466e3ccbb0b63d7f848d5988d9793ca94",
       "notes": [
-        "Rankup: confirmación al subir, nombres de rango y barras sin solaparse; /horas renovado; editor de tesoros"
+        "Aviso gris ? sobre los NPC con misión en curso; avisos más altos para no tapar el nombre"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.20",
-      "text": "Rankup: confirmación al subir, nombres de rango y barras sin solaparse; /horas renovado; editor de tesoros"
+      "title": "Modpack 0.1.21",
+      "text": "Aviso gris ? sobre los NPC con misión en curso; avisos más altos para no tapar el nombre"
     }
   ]
 }

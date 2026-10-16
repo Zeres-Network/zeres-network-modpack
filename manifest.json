@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.17",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.17/zeres-cobblemon-0.1.17.mrpack",
-      "sha1": "de1740380b5298e78d0261abe5b161dbae040237",
+      "version": "0.1.18",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.18/zeres-cobblemon-0.1.18.mrpack",
+      "sha1": "0dcea82e87512775d01a6cc6aa224233d0dcd2b7",
       "notes": [
-        "Escala de interfaz x3 por defecto para los jugadores nuevos."
+        "La casita de las pantallas del Pokepad vuelve al menú anterior donde toca."
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.17",
-      "text": "Escala de interfaz x3 por defecto para los jugadores nuevos."
+      "title": "Modpack 0.1.18",
+      "text": "La casita de las pantallas del Pokepad vuelve al menú anterior donde toca."
     }
   ]
 }

@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.18",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.18/zeres-cobblemon-0.1.18.mrpack",
-      "sha1": "0dcea82e87512775d01a6cc6aa224233d0dcd2b7",
+      "version": "0.1.19",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.19/zeres-cobblemon-0.1.19.mrpack",
+      "sha1": "f36c5f13ee3ca91b871a0b6bd77b43a0eb1d9096",
       "notes": [
-        "La casita de las pantallas del Pokepad vuelve al menú anterior donde toca."
+        "El texto del objetivo ya no se sale de la tarjeta en el diario de misiones."
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.18",
-      "text": "La casita de las pantallas del Pokepad vuelve al menú anterior donde toca."
+      "title": "Modpack 0.1.19",
+      "text": "El texto del objetivo ya no se sale de la tarjeta en el diario de misiones."
     }
   ]
 }

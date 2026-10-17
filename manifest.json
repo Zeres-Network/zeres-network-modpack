@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.22",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.22/zeres-cobblemon-0.1.22.mrpack",
-      "sha1": "76bb329f651f2b3eaa3be9a6a5c6db91d7fafcc1",
+      "version": "0.1.23",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.23/zeres-cobblemon-0.1.23.mrpack",
+      "sha1": "741cbf9c7b0a78bbe42ffa6bccc128aba9a50629",
       "notes": [
-        "Opciones > Gráficos abre la pantalla de Sodium"
+        "Gráficos: menú de Rendimiento / Normal / Ultra antes de los ajustes avanzados"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.22",
-      "text": "Opciones > Gráficos abre la pantalla de Sodium"
+      "title": "Modpack 0.1.23",
+      "text": "Gráficos: menú de Rendimiento / Normal / Ultra antes de los ajustes avanzados"
     }
   ]
 }

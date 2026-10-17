@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.23",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.23/zeres-cobblemon-0.1.23.mrpack",
-      "sha1": "741cbf9c7b0a78bbe42ffa6bccc128aba9a50629",
+      "version": "0.1.24",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.24/zeres-cobblemon-0.1.24.mrpack",
+      "sha1": "abf50340ca2651d09f6381f9c9091abde8f20328",
       "notes": [
-        "Gráficos: menú de Rendimiento / Normal / Ultra antes de los ajustes avanzados"
+        "Barra de efectos junto a la hotbar y cuenta atrás de regeneración en el tooltip de los objetos"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.23",
-      "text": "Gráficos: menú de Rendimiento / Normal / Ultra antes de los ajustes avanzados"
+      "title": "Modpack 0.1.24",
+      "text": "Barra de efectos junto a la hotbar y cuenta atrás de regeneración en el tooltip de los objetos"
     }
   ]
 }

@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.25",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.25/zeres-cobblemon-0.1.25.mrpack",
-      "sha1": "dde6c0f1851a8cc55be4d104ef61709a7bd90614",
+      "version": "0.1.26",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.26/zeres-cobblemon-0.1.26.mrpack",
+      "sha1": "71ed322eda29996b978db7cba4177baf33665b3d",
       "notes": [
-        "Al pasar el ratón por la barra de efectos se ve qué efecto es y cuánto le queda"
+        "Panorámica nueva del spawn en la pantalla principal y en las de carga"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.25",
-      "text": "Al pasar el ratón por la barra de efectos se ve qué efecto es y cuánto le queda"
+      "title": "Modpack 0.1.26",
+      "text": "Panorámica nueva del spawn en la pantalla principal y en las de carga"
     }
   ]
 }

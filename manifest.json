@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.21",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.21/zeres-cobblemon-0.1.21.mrpack",
-      "sha1": "a85af6e466e3ccbb0b63d7f848d5988d9793ca94",
+      "version": "0.1.22",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.22/zeres-cobblemon-0.1.22.mrpack",
+      "sha1": "76bb329f651f2b3eaa3be9a6a5c6db91d7fafcc1",
       "notes": [
-        "Aviso gris ? sobre los NPC con misión en curso; avisos más altos para no tapar el nombre"
+        "Opciones > Gráficos abre la pantalla de Sodium"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.21",
-      "text": "Aviso gris ? sobre los NPC con misión en curso; avisos más altos para no tapar el nombre"
+      "title": "Modpack 0.1.22",
+      "text": "Opciones > Gráficos abre la pantalla de Sodium"
     }
   ]
 }

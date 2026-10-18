@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.26",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.26/zeres-cobblemon-0.1.26.mrpack",
-      "sha1": "71ed322eda29996b978db7cba4177baf33665b3d",
+      "version": "0.1.27",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.27/zeres-cobblemon-0.1.27.mrpack",
+      "sha1": "ed6767d7acb0309f39659985569e45674832c7b3",
       "notes": [
-        "Panorámica nueva del spawn en la pantalla principal y en las de carga"
+        "Portada con el rótulo COBBLEMON del scoreboard"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.26",
-      "text": "Panorámica nueva del spawn en la pantalla principal y en las de carga"
+      "title": "Modpack 0.1.27",
+      "text": "Portada con el rótulo COBBLEMON del scoreboard"
     }
   ]
 }

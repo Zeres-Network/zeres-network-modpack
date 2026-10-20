@@ -12,12 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.29",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.29/zeres-cobblemon-0.1.29.mrpack",
-      "sha1": "30b399846bfd681567f72fa5cd33140828f97b47",
+      "version": "0.1.30",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.30/zeres-cobblemon-0.1.30.mrpack",
+      "sha1": "3f326be2adccb39d92d797457ebfd72be3addbe6",
       "notes": [
-        "Misiones: el texto de la historia ya no se corta",
-        "Misiones: los títulos y el nivel salen en las recompensas"
+        "Medallas: salen todas bajo el scoreboard, oscuras las que faltan y del mismo ancho"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -25,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.29",
-      "text": "Misiones: el texto de la historia ya no se corta"
+      "title": "Modpack 0.1.30",
+      "text": "Medallas: salen todas bajo el scoreboard, oscuras las que faltan y del mismo ancho"
     }
   ]
 }

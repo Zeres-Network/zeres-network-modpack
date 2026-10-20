@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.30",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.30/zeres-cobblemon-0.1.30.mrpack",
-      "sha1": "3f326be2adccb39d92d797457ebfd72be3addbe6",
+      "version": "0.1.31",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.31/zeres-cobblemon-0.1.31.mrpack",
+      "sha1": "dcdaef382e4c270c12b29b3915dc3541f7405b90",
       "notes": [
-        "Medallas: salen todas bajo el scoreboard, oscuras las que faltan y del mismo ancho"
+        "Combate: icono sobre la hotbar con tus objetos de combate (inventario y mochilas)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.30",
-      "text": "Medallas: salen todas bajo el scoreboard, oscuras las que faltan y del mismo ancho"
+      "title": "Modpack 0.1.31",
+      "text": "Combate: icono sobre la hotbar con tus objetos de combate (inventario y mochilas)"
     }
   ]
 }

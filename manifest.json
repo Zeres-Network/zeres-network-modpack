@@ -12,12 +12,12 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.28",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.28/zeres-cobblemon-0.1.28.mrpack",
-      "sha1": "82e0534404343ed36b90d6dc68ce4b6539e71684",
+      "version": "0.1.29",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.29/zeres-cobblemon-0.1.29.mrpack",
+      "sha1": "30b399846bfd681567f72fa5cd33140828f97b47",
       "notes": [
-        "Teclas sin choques: el mapa pasa a la J, nuevo waypoint a la I y silenciar micro a la K (la M queda para Cobblemon)",
-        "Ocultar iconos del chat de voz sin tecla (la H es de accesorios)"
+        "Misiones: el texto de la historia ya no se corta",
+        "Misiones: los títulos y el nivel salen en las recompensas"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -25,8 +25,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.28",
-      "text": "Teclas sin choques: el mapa pasa a la J, nuevo waypoint a la I y silenciar micro a la K (la M queda para Cobblemon)"
+      "title": "Modpack 0.1.29",
+      "text": "Misiones: el texto de la historia ya no se corta"
     }
   ]
 }

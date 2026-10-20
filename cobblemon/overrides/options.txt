@@ -9,3 +9,7 @@ mipmapLevels:2
 enableVsync:false
 lang:es_es
 guiScale:3
+key_gui.xaero_open_map:key.keyboard.j
+key_key.mute_microphone:key.keyboard.k
+key_gui.xaero_new_waypoint:key.keyboard.i
+key_key.hide_icons:key.keyboard.unknown

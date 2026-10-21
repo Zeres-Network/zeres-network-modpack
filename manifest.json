@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.31",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.31/zeres-cobblemon-0.1.31.mrpack",
-      "sha1": "dcdaef382e4c270c12b29b3915dc3541f7405b90",
+      "version": "0.1.32",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.32/zeres-cobblemon-0.1.32.mrpack",
+      "sha1": "2b237760a7b0680e49e1511b91e4224459b157d6",
       "notes": [
-        "Combate: icono sobre la hotbar con tus objetos de combate (inventario y mochilas)"
+        "Bolsa de combate: icono nuevo y la casita vuelve al combate"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.31",
-      "text": "Combate: icono sobre la hotbar con tus objetos de combate (inventario y mochilas)"
+      "title": "Modpack 0.1.32",
+      "text": "Bolsa de combate: icono nuevo y la casita vuelve al combate"
     }
   ]
 }

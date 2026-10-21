@@ -27,5 +27,11 @@
       "title": "Modpack 0.1.32",
       "text": "Bolsa de combate: icono nuevo y la casita vuelve al combate"
     }
+  ],
+  "staff": [
+    {
+      "name": "Dayscraft",
+      "code_sha256": "1c6aa016f88eeb8462919318ac9584de39f1dc0de09c4baff9a98730218c828f"
+    }
   ]
 }

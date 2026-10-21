@@ -31,7 +31,8 @@
   "staff": [
     {
       "name": "Dayscraft",
-      "code_sha256": "1c6aa016f88eeb8462919318ac9584de39f1dc0de09c4baff9a98730218c828f"
+      "code_sha256": "81dcd87788291e678c2435ad026011b9d098d052d1a6252c3794bfb9f2f1692a",
+      "uuid": "aa677045ded74b41832ad3ab9471cbe0"
     }
   ]
 }

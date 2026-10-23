@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.32",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.32/zeres-cobblemon-0.1.32.mrpack",
-      "sha1": "2b237760a7b0680e49e1511b91e4224459b157d6",
+      "version": "0.1.33",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.33/zeres-cobblemon-0.1.33.mrpack",
+      "sha1": "318e1013d370b4bc75e110100ed896a4f40f5d3b",
       "notes": [
-        "Bolsa de combate: icono nuevo y la casita vuelve al combate"
+        "Pokepad: botones nuevos de Senda del Entrenador y Licencia de entrenador"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.32",
-      "text": "Bolsa de combate: icono nuevo y la casita vuelve al combate"
+      "title": "Modpack 0.1.33",
+      "text": "Pokepad: botones nuevos de Senda del Entrenador y Licencia de entrenador"
     }
   ],
   "staff": [

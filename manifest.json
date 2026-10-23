@@ -33,6 +33,10 @@
       "name": "Dayscraft",
       "code_sha256": "81dcd87788291e678c2435ad026011b9d098d052d1a6252c3794bfb9f2f1692a",
       "uuid": ""
+    },
+    {
+      "name": "Favnoob",
+      "code_sha256": "f07724cf1bc438715f5b232385c1e2895ca4024862db761bfc798314075eeeeb"
     }
   ]
 }

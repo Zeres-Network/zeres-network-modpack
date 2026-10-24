@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.34",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.34/zeres-cobblemon-0.1.34.mrpack",
-      "sha1": "5c3d4c00eb8083e4ebbe6c551e2a309acfa269b9",
+      "version": "0.1.35",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.35/zeres-cobblemon-0.1.35.mrpack",
+      "sha1": "f8ec40c87ab3c4d47ba7f4647603124c20e108c8",
       "notes": [
-        "Pokepad: botón nuevo de Forja (mejorar armadura)"
+        "Pantallas: tooltip del objeto al pasar el ratón por los nombres (Forja)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.34",
-      "text": "Pokepad: botón nuevo de Forja (mejorar armadura)"
+      "title": "Modpack 0.1.35",
+      "text": "Pantallas: tooltip del objeto al pasar el ratón por los nombres (Forja)"
     }
   ],
   "staff": [

@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.36",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.36/zeres-cobblemon-0.1.36.mrpack",
-      "sha1": "4aacbf44fe3853bafafe13ab4e76bfe709bd4b94",
+      "version": "0.1.37",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.37/zeres-cobblemon-0.1.37.mrpack",
+      "sha1": "5ab128be3df1ff135a91d6efce3b88803e5dc960",
       "notes": [
-        "Presentación de Zeres para los nuevos: cinemática con voz por las regiones (Shift para saltar)"
+        "Presentación mejorada: empieza en el spawn, pantalla de carga entre planos, interfaz nueva y voz más natural"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.36",
-      "text": "Presentación de Zeres para los nuevos: cinemática con voz por las regiones (Shift para saltar)"
+      "title": "Modpack 0.1.37",
+      "text": "Presentación mejorada: empieza en el spawn, pantalla de carga entre planos, interfaz nueva y voz más natural"
     }
   ],
   "staff": [

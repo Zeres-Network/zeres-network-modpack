@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.35",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.35/zeres-cobblemon-0.1.35.mrpack",
-      "sha1": "f8ec40c87ab3c4d47ba7f4647603124c20e108c8",
+      "version": "0.1.36",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.36/zeres-cobblemon-0.1.36.mrpack",
+      "sha1": "4aacbf44fe3853bafafe13ab4e76bfe709bd4b94",
       "notes": [
-        "Pantallas: tooltip del objeto al pasar el ratón por los nombres (Forja)"
+        "Presentación de Zeres para los nuevos: cinemática con voz por las regiones (Shift para saltar)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.35",
-      "text": "Pantallas: tooltip del objeto al pasar el ratón por los nombres (Forja)"
+      "title": "Modpack 0.1.36",
+      "text": "Presentación de Zeres para los nuevos: cinemática con voz por las regiones (Shift para saltar)"
     }
   ],
   "staff": [

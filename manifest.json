@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.38",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.38/zeres-cobblemon-0.1.38.mrpack",
-      "sha1": "dd3a56d3493db283599c0b8211ca7145e3d3106c",
+      "version": "0.1.39",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.39/zeres-cobblemon-0.1.39.mrpack",
+      "sha1": "34c635d12f10122f44127483a20d5a60468495f0",
       "notes": [
-        "Presentación: sin el borde del mundo, voz nativa en español, planos que van con lo que se dice"
+        "Menú principal: rótulo COBBLEMON nuevo con Poké Ball"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.38",
-      "text": "Presentación: sin el borde del mundo, voz nativa en español, planos que van con lo que se dice"
+      "title": "Modpack 0.1.39",
+      "text": "Menú principal: rótulo COBBLEMON nuevo con Poké Ball"
     }
   ],
   "staff": [

@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.33",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.33/zeres-cobblemon-0.1.33.mrpack",
-      "sha1": "318e1013d370b4bc75e110100ed896a4f40f5d3b",
+      "version": "0.1.34",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.34/zeres-cobblemon-0.1.34.mrpack",
+      "sha1": "5c3d4c00eb8083e4ebbe6c551e2a309acfa269b9",
       "notes": [
-        "Pokepad: botones nuevos de Senda del Entrenador y Licencia de entrenador"
+        "Pokepad: botón nuevo de Forja (mejorar armadura)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.33",
-      "text": "Pokepad: botones nuevos de Senda del Entrenador y Licencia de entrenador"
+      "title": "Modpack 0.1.34",
+      "text": "Pokepad: botón nuevo de Forja (mejorar armadura)"
     }
   ],
   "staff": [

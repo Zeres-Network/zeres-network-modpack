@@ -12,12 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.47",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.47/zeres-cobblemon-0.1.47.mrpack",
-      "sha1": "cce82c091dac07b7e7981ebafa8773dc04c40c02",
+      "version": "0.1.48",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.48/zeres-cobblemon-0.1.48.mrpack",
+      "sha1": "0122c71f3d6e9d2f14f56337021d611e62d19930",
       "notes": [
-        "Música propia: cada región, el spawn, el menú, los combates y los jefes (por capas según la fase)",
-        "Jefes: bajan del cielo, animaciones al atacar y al recibir golpes, avisos de fase y panel de daño"
+        "Jefes: el panel de daño pasa arriba a la izquierda (ya no lo tapa el marcador)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -25,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.47",
-      "text": "Música propia: cada región, el spawn, el menú, los combates y los jefes (por capas según la fase)"
+      "title": "Modpack 0.1.48",
+      "text": "Jefes: el panel de daño pasa arriba a la izquierda (ya no lo tapa el marcador)"
     }
   ],
   "staff": [

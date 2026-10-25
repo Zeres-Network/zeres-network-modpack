@@ -12,12 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.44",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.44/zeres-cobblemon-0.1.44.mrpack",
-      "sha1": "5aca99009adc570e3649ef9af5dc2056ca46e96b",
+      "version": "0.1.45",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.45/zeres-cobblemon-0.1.45.mrpack",
+      "sha1": "5b09c335a558672794600222a55b6d35418243f4",
       "notes": [
-        "Jefes de la Arena: modelo gigante y barra del jefe con su estilo",
-        "Botón Jefes en el Pokepad"
+        "La barra del jefe sale debajo de las barras de arriba"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -25,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.44",
-      "text": "Jefes de la Arena: modelo gigante y barra del jefe con su estilo"
+      "title": "Modpack 0.1.45",
+      "text": "La barra del jefe sale debajo de las barras de arriba"
     }
   ],
   "staff": [

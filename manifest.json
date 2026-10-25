@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.45",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.45/zeres-cobblemon-0.1.45.mrpack",
-      "sha1": "5b09c335a558672794600222a55b6d35418243f4",
+      "version": "0.1.46",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.46/zeres-cobblemon-0.1.46.mrpack",
+      "sha1": "a39883dddb6a5eff4ecc6c456e8d037cb78b095b",
       "notes": [
-        "La barra del jefe sale debajo de las barras de arriba"
+        "Menús nuevos estilo Poké Ball: Pokepad, kits, tienda, crafteos, drops, wiki, senda, misiones y jefes como las maquetas"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.45",
-      "text": "La barra del jefe sale debajo de las barras de arriba"
+      "title": "Modpack 0.1.46",
+      "text": "Menús nuevos estilo Poké Ball: Pokepad, kits, tienda, crafteos, drops, wiki, senda, misiones y jefes como las maquetas"
     }
   ],
   "staff": [

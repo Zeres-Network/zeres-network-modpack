@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.50",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.50/zeres-cobblemon-0.1.50.mrpack",
-      "sha1": "1dc212dcd343a4c6c373f49e7bc47825c2cad96d",
+      "version": "0.1.51",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.51/zeres-cobblemon-0.1.51.mrpack",
+      "sha1": "0f49589c68abe511f572ef6e6e1697ced47fb8cf",
       "notes": [
-        "Jefes: avisos de ataque pintados en el suelo, esbirros marcados en pantalla (y en Xaero), animaciones de ataque para todos los jefes y arreglo al morir"
+        "Jefes: barra nueva con reloj y multiplicador de premios, vida de los esbirros, nombres encima, Mewtwo andando por el suelo, sin etiqueta de Pokémon"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.50",
-      "text": "Jefes: avisos de ataque pintados en el suelo, esbirros marcados en pantalla (y en Xaero), animaciones de ataque para todos los jefes y arreglo al morir"
+      "title": "Modpack 0.1.51",
+      "text": "Jefes: barra nueva con reloj y multiplicador de premios, vida de los esbirros, nombres encima, Mewtwo andando por el suelo, sin etiqueta de Pokémon"
     }
   ],
   "staff": [

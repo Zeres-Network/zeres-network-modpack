@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.51",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.51/zeres-cobblemon-0.1.51.mrpack",
-      "sha1": "0f49589c68abe511f572ef6e6e1697ced47fb8cf",
+      "version": "0.1.52",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.52/zeres-cobblemon-0.1.52.mrpack",
+      "sha1": "df9c78e913eef4f2cbaccf04846c083288c476ea",
       "notes": [
-        "Jefes: barra nueva con reloj y multiplicador de premios, vida de los esbirros, nombres encima, Mewtwo andando por el suelo, sin etiqueta de Pokémon"
+        "Jefes: no se ven las cajas de golpes en espectador (cinemáticas); panel de pruebas para el staff"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.51",
-      "text": "Jefes: barra nueva con reloj y multiplicador de premios, vida de los esbirros, nombres encima, Mewtwo andando por el suelo, sin etiqueta de Pokémon"
+      "title": "Modpack 0.1.52",
+      "text": "Jefes: no se ven las cajas de golpes en espectador (cinemáticas); panel de pruebas para el staff"
     }
   ],
   "staff": [

@@ -12,11 +12,12 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.52",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.52/zeres-cobblemon-0.1.52.mrpack",
-      "sha1": "df9c78e913eef4f2cbaccf04846c083288c476ea",
+      "version": "0.1.53",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.53/zeres-cobblemon-0.1.53.mrpack",
+      "sha1": "50cf7432a2b03eae949214af53b21141052731df",
       "notes": [
-        "Jefes: no se ven las cajas de golpes en espectador (cinemáticas); panel de pruebas para el staff"
+        "Jefes: la barra es la de jefe de vainilla con el aspecto del pack del servidor",
+        "Fase 4: Mewtwo en modo Pokémon (pelean vuestros Pokémon, sácalos con la R)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +25,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.52",
-      "text": "Jefes: no se ven las cajas de golpes en espectador (cinemáticas); panel de pruebas para el staff"
+      "title": "Modpack 0.1.53",
+      "text": "Jefes: la barra es la de jefe de vainilla con el aspecto del pack del servidor"
     }
   ],
   "staff": [

@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.49",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.49/zeres-cobblemon-0.1.49.mrpack",
-      "sha1": "02bcb015f564ba3d8b59e86f980f156642636b3b",
+      "version": "0.1.50",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.50/zeres-cobblemon-0.1.50.mrpack",
+      "sha1": "1dc212dcd343a4c6c373f49e7bc47825c2cad96d",
       "notes": [
-        "Jefes: Mewtwo Renacido con animaciones propias (gestos, flotar, clones que corren) y ataques nuevos"
+        "Jefes: avisos de ataque pintados en el suelo, esbirros marcados en pantalla (y en Xaero), animaciones de ataque para todos los jefes y arreglo al morir"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.49",
-      "text": "Jefes: Mewtwo Renacido con animaciones propias (gestos, flotar, clones que corren) y ataques nuevos"
+      "title": "Modpack 0.1.50",
+      "text": "Jefes: avisos de ataque pintados en el suelo, esbirros marcados en pantalla (y en Xaero), animaciones de ataque para todos los jefes y arreglo al morir"
     }
   ],
   "staff": [

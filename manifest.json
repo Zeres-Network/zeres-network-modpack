@@ -12,11 +12,12 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.40",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.40/zeres-cobblemon-0.1.40.mrpack",
-      "sha1": "b676d694dcdb4cfde5098339edd525da2e1052fb",
+      "version": "0.1.41",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.41/zeres-cobblemon-0.1.41.mrpack",
+      "sha1": "1b543dcde44615010c570fb47bba65ff7224cd3a",
       "notes": [
-        "Pokepad: botones Drops y Wiki"
+        "Menús nuevos con el estilo Poké Ball: cabecera roja, tarjetas blancas y texto oscuro",
+        "Pokepad con pestañas en píldora (Aventura, Pokémon, Comunidad)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +25,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.40",
-      "text": "Pokepad: botones Drops y Wiki"
+      "title": "Modpack 0.1.41",
+      "text": "Menús nuevos con el estilo Poké Ball: cabecera roja, tarjetas blancas y texto oscuro"
     }
   ],
   "staff": [

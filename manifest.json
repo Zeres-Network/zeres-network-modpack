@@ -12,12 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.53",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.53/zeres-cobblemon-0.1.53.mrpack",
-      "sha1": "50cf7432a2b03eae949214af53b21141052731df",
+      "version": "0.1.54",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.54/zeres-cobblemon-0.1.54.mrpack",
+      "sha1": "e93a35a2341cc2acaf00f9ca5366cfffea8176ff",
       "notes": [
-        "Jefes: la barra es la de jefe de vainilla con el aspecto del pack del servidor",
-        "Fase 4: Mewtwo en modo Pokémon (pelean vuestros Pokémon, sácalos con la R)"
+        "Arreglos de menús: misiones (títulos, objetivos con rueda, recompensas), tarjetas de gimnasios y regiones, bolsa de combate"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -25,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.53",
-      "text": "Jefes: la barra es la de jefe de vainilla con el aspecto del pack del servidor"
+      "title": "Modpack 0.1.54",
+      "text": "Arreglos de menús: misiones (títulos, objetivos con rueda, recompensas), tarjetas de gimnasios y regiones, bolsa de combate"
     }
   ],
   "staff": [

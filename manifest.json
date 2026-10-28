@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.56",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.56/zeres-cobblemon-0.1.56.mrpack",
-      "sha1": "459fc10cbbece51c89c58f6668099e52831a9451",
+      "version": "0.1.57",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.57/zeres-cobblemon-0.1.57.mrpack",
+      "sha1": "713fa835804368ac600585c96a396f3a16387120",
       "notes": [
-        "Contador del reporte sin duplicar"
+        "Mochila: botón de volver sin pisar el título"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.56",
-      "text": "Contador del reporte sin duplicar"
+      "title": "Modpack 0.1.57",
+      "text": "Mochila: botón de volver sin pisar el título"
     }
   ],
   "staff": [

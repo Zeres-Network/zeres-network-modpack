@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.54",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.54/zeres-cobblemon-0.1.54.mrpack",
-      "sha1": "e93a35a2341cc2acaf00f9ca5366cfffea8176ff",
+      "version": "0.1.55",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.55/zeres-cobblemon-0.1.55.mrpack",
+      "sha1": "25501ee42aa22e0ef3fa53f5a2be352ccbe5d53a",
       "notes": [
-        "Arreglos de menús: misiones (títulos, objetivos con rueda, recompensas), tarjetas de gimnasios y regiones, bolsa de combate"
+        "Texto de los menús nítido (escala a píxeles enteros)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.54",
-      "text": "Arreglos de menús: misiones (títulos, objetivos con rueda, recompensas), tarjetas de gimnasios y regiones, bolsa de combate"
+      "title": "Modpack 0.1.55",
+      "text": "Texto de los menús nítido (escala a píxeles enteros)"
     }
   ],
   "staff": [

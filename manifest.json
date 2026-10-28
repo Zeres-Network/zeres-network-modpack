@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.58",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.58/zeres-cobblemon-0.1.58.mrpack",
-      "sha1": "bfb819acc4e77657b817326a0f2f5db5b3037248",
+      "version": "0.1.59",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.59/zeres-cobblemon-0.1.59.mrpack",
+      "sha1": "e29d91b54aa9f5942e811d76fc0db61ca4b96a8a",
       "notes": [
-        "Tooltips con marco propio: kits de rango, de capítulo, armadura PvP y objetos por rareza"
+        "Marcador y medallas con marco de cristal rubí; tooltips de kits también en el Pokepad"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.58",
-      "text": "Tooltips con marco propio: kits de rango, de capítulo, armadura PvP y objetos por rareza"
+      "title": "Modpack 0.1.59",
+      "text": "Marcador y medallas con marco de cristal rubí; tooltips de kits también en el Pokepad"
     }
   ],
   "staff": [

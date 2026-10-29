@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.59",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.59/zeres-cobblemon-0.1.59.mrpack",
-      "sha1": "e29d91b54aa9f5942e811d76fc0db61ca4b96a8a",
+      "version": "0.1.60",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.60/zeres-cobblemon-0.1.60.mrpack",
+      "sha1": "fba3edcb0eba5d86bf0d1f40cc5e29e013d81481",
       "notes": [
-        "Marcador y medallas con marco de cristal rubí; tooltips de kits también en el Pokepad"
+        "Hologramas y nombres flotantes sin fondo"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.59",
-      "text": "Marcador y medallas con marco de cristal rubí; tooltips de kits también en el Pokepad"
+      "title": "Modpack 0.1.60",
+      "text": "Hologramas y nombres flotantes sin fondo"
     }
   ],
   "staff": [

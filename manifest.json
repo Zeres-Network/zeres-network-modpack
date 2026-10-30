@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.65",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.65/zeres-cobblemon-0.1.65.mrpack",
-      "sha1": "39b46b156bb255a51923013cd14b8fa8b1eed99a",
+      "version": "0.1.66",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.66/zeres-cobblemon-0.1.66.mrpack",
+      "sha1": "5960624ef56258ae628f2de176c60379122f6ba3",
       "notes": [
-        "Mejoras internas del cliente (grabación de vídeos, HUD y menús)"
+        "Housing: iconos 3D de los muebles en el catalogo"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.65",
-      "text": "Mejoras internas del cliente (grabación de vídeos, HUD y menús)"
+      "title": "Modpack 0.1.66",
+      "text": "Housing: iconos 3D de los muebles en el catalogo"
     }
   ],
   "staff": [

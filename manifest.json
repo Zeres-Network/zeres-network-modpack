@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.62",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.62/zeres-cobblemon-0.1.62.mrpack",
-      "sha1": "718f6899a17aa1bea8d48852fe59f6ccc31cab11",
+      "version": "0.1.63",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.63/zeres-cobblemon-0.1.63.mrpack",
+      "sha1": "39eb53cdd57a8727f0d839f9ce9836eb1e2918ef",
       "notes": [
-        "Cajas: tooltips más estrechos y sin las líneas de cebo/sazonadores de Cobblemon"
+        "Modo de grabación para vídeos"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.62",
-      "text": "Cajas: tooltips más estrechos y sin las líneas de cebo/sazonadores de Cobblemon"
+      "title": "Modpack 0.1.63",
+      "text": "Modo de grabación para vídeos"
     }
   ],
   "staff": [

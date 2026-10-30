@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.66",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.66/zeres-cobblemon-0.1.66.mrpack",
-      "sha1": "5960624ef56258ae628f2de176c60379122f6ba3",
+      "version": "0.1.67",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.67/zeres-cobblemon-0.1.67.mrpack",
+      "sha1": "d51e11710945da5326c35846b518dc96fd191c5d",
       "notes": [
-        "Housing: iconos 3D de los muebles en el catalogo"
+        "Scoreboard principal sin fondo (prueba)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.66",
-      "text": "Housing: iconos 3D de los muebles en el catalogo"
+      "title": "Modpack 0.1.67",
+      "text": "Scoreboard principal sin fondo (prueba)"
     }
   ],
   "staff": [

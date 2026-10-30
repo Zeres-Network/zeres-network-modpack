@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.67",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.67/zeres-cobblemon-0.1.67.mrpack",
-      "sha1": "d51e11710945da5326c35846b518dc96fd191c5d",
+      "version": "0.1.68",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.68/zeres-cobblemon-0.1.68.mrpack",
+      "sha1": "62b97cb39613c5d523b070171f71fae1aba9b77d",
       "notes": [
-        "Scoreboard principal sin fondo (prueba)"
+        "Sin Jade; medallas del mismo ancho que el scoreboard"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.67",
-      "text": "Scoreboard principal sin fondo (prueba)"
+      "title": "Modpack 0.1.68",
+      "text": "Sin Jade; medallas del mismo ancho que el scoreboard"
     }
   ],
   "staff": [

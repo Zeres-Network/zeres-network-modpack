@@ -87,8 +87,6 @@ io_wispforest_endec
 io_wispforest_endec_gson
 io_wispforest_endec_jankson
 io_wispforest_endec_netty
-jade
-jadeaddons
 java
 jei
 krypton

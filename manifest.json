@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.60",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.60/zeres-cobblemon-0.1.60.mrpack",
-      "sha1": "fba3edcb0eba5d86bf0d1f40cc5e29e013d81481",
+      "version": "0.1.61",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.61/zeres-cobblemon-0.1.61.mrpack",
+      "sha1": "aff8c1a0f44cb839431fe21db0601f64499f1bdb",
       "notes": [
-        "Hologramas y nombres flotantes sin fondo"
+        "Cajas: el tooltip de cada premio usa el diseño de su rareza"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.60",
-      "text": "Hologramas y nombres flotantes sin fondo"
+      "title": "Modpack 0.1.61",
+      "text": "Cajas: el tooltip de cada premio usa el diseño de su rareza"
     }
   ],
   "staff": [

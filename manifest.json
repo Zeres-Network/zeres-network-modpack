@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.61",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.61/zeres-cobblemon-0.1.61.mrpack",
-      "sha1": "aff8c1a0f44cb839431fe21db0601f64499f1bdb",
+      "version": "0.1.62",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.62/zeres-cobblemon-0.1.62.mrpack",
+      "sha1": "718f6899a17aa1bea8d48852fe59f6ccc31cab11",
       "notes": [
-        "Cajas: el tooltip de cada premio usa el diseño de su rareza"
+        "Cajas: tooltips más estrechos y sin las líneas de cebo/sazonadores de Cobblemon"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.61",
-      "text": "Cajas: el tooltip de cada premio usa el diseño de su rareza"
+      "title": "Modpack 0.1.62",
+      "text": "Cajas: tooltips más estrechos y sin las líneas de cebo/sazonadores de Cobblemon"
     }
   ],
   "staff": [

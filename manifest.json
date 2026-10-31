@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.70",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.70/zeres-cobblemon-0.1.70.mrpack",
-      "sha1": "5e66164459a41cffc71d448e8ecc3a58a47df4fa",
+      "version": "0.1.71",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.71/zeres-cobblemon-0.1.71.mrpack",
+      "sha1": "c5d0c8dc76d3a016a6cff6227a3f0fe99be2b5bf",
       "notes": [
-        "Jefes: gestos nuevos (pisoton, salto, embestida, giro) para los ataques nuevos"
+        "Iconos de monedas y PokeCoins iguales a los del HUD"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.70",
-      "text": "Jefes: gestos nuevos (pisoton, salto, embestida, giro) para los ataques nuevos"
+      "title": "Modpack 0.1.71",
+      "text": "Iconos de monedas y PokeCoins iguales a los del HUD"
     }
   ],
   "staff": [

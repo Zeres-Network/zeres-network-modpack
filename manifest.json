@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.75",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.75/zeres-cobblemon-0.1.75.mrpack",
-      "sha1": "1e8d558835785f9af45b241314dcbce11a878fb9",
+      "version": "0.1.76",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.76/zeres-cobblemon-0.1.76.mrpack",
+      "sha1": "3f8922f7161dd549c6dd6661f473b36d59df4851",
       "notes": [
-        "Ruleta de minijuegos en pantalla"
+        "Misiones en arbol"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.75",
-      "text": "Ruleta de minijuegos en pantalla"
+      "title": "Modpack 0.1.76",
+      "text": "Misiones en arbol"
     }
   ],
   "staff": [

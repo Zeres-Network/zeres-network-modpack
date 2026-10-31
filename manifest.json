@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.72",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.72/zeres-cobblemon-0.1.72.mrpack",
-      "sha1": "aa6b73e9208dda1a40fb38338952d99fad99ad44",
+      "version": "0.1.73",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.73/zeres-cobblemon-0.1.73.mrpack",
+      "sha1": "fc95ea9d65d648d20fea788f7ab0c268582b8186",
       "notes": [
-        "Medallas detalladas de Kanto y Johto; medallas por region"
+        "Gimnasios: regiones cerradas solo con candado"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.72",
-      "text": "Medallas detalladas de Kanto y Johto; medallas por region"
+      "title": "Modpack 0.1.73",
+      "text": "Gimnasios: regiones cerradas solo con candado"
     }
   ],
   "staff": [

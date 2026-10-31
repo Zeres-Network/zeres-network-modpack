@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.68",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.68/zeres-cobblemon-0.1.68.mrpack",
-      "sha1": "62b97cb39613c5d523b070171f71fae1aba9b77d",
+      "version": "0.1.69",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.69/zeres-cobblemon-0.1.69.mrpack",
+      "sha1": "86998918b6399c88b96f272a93e4f347704e724e",
       "notes": [
-        "Sin Jade; medallas del mismo ancho que el scoreboard"
+        "Raid de Regigigas: barra de lanzamiento de los jefes (Agarron, Gran Seismo, Recuperacion de Mewtwo)"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.68",
-      "text": "Sin Jade; medallas del mismo ancho que el scoreboard"
+      "title": "Modpack 0.1.69",
+      "text": "Raid de Regigigas: barra de lanzamiento de los jefes (Agarron, Gran Seismo, Recuperacion de Mewtwo)"
     }
   ],
   "staff": [

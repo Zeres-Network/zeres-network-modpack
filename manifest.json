@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.73",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.73/zeres-cobblemon-0.1.73.mrpack",
-      "sha1": "fc95ea9d65d648d20fea788f7ab0c268582b8186",
+      "version": "0.1.74",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.74/zeres-cobblemon-0.1.74.mrpack",
+      "sha1": "e9e006d083df19fde7e8b2c14e9039b161994c27",
       "notes": [
-        "Gimnasios: regiones cerradas solo con candado"
+        "Mascotas en 3D en el menu de cosmeticos"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.73",
-      "text": "Gimnasios: regiones cerradas solo con candado"
+      "title": "Modpack 0.1.74",
+      "text": "Mascotas en 3D en el menu de cosmeticos"
     }
   ],
   "staff": [

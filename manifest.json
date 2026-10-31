@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.71",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.71/zeres-cobblemon-0.1.71.mrpack",
-      "sha1": "c5d0c8dc76d3a016a6cff6227a3f0fe99be2b5bf",
+      "version": "0.1.72",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.72/zeres-cobblemon-0.1.72.mrpack",
+      "sha1": "aa6b73e9208dda1a40fb38338952d99fad99ad44",
       "notes": [
-        "Iconos de monedas y PokeCoins iguales a los del HUD"
+        "Medallas detalladas de Kanto y Johto; medallas por region"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.71",
-      "text": "Iconos de monedas y PokeCoins iguales a los del HUD"
+      "title": "Modpack 0.1.72",
+      "text": "Medallas detalladas de Kanto y Johto; medallas por region"
     }
   ],
   "staff": [

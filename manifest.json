@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.76",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.76/zeres-cobblemon-0.1.76.mrpack",
-      "sha1": "3f8922f7161dd549c6dd6661f473b36d59df4851",
+      "version": "0.1.77",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.77/zeres-cobblemon-0.1.77.mrpack",
+      "sha1": "0f26292e03f9ca87bddc24a93b9868031a5ad276",
       "notes": [
-        "Misiones en arbol"
+        "Pantallas grandes comprimidas; ficha del arbol de misiones"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     }
@@ -24,8 +24,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.76",
-      "text": "Misiones en arbol"
+      "title": "Modpack 0.1.77",
+      "text": "Pantallas grandes comprimidas; ficha del arbol de misiones"
     }
   ],
   "staff": [

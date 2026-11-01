@@ -37,6 +37,21 @@
       "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.15/zeres-tycoon-0.1.15.mrpack",
       "sha1": "8bdf69cd67739a4160406a14de45a62ee2a5dd3b",
       "public_server": "shrimp-montana.tun.ply.gg:56966"
+    },
+    "tycoonp": {
+      "name": "Zeres Tycoon sin mods",
+      "server": {
+        "host": "127.0.0.1",
+        "port": 25568
+      },
+      "local_server": "Desktop/dev/ZeresTycoon/servidor-plugins",
+      "version": "0.1.0",
+      "minecraft": "26.3",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoonp-0.1.0/zeres-tycoon-plugins-0.1.0.mrpack",
+      "sha1": "66d330d3d72da8e160ec8ba10ee393b46fd05837",
+      "notes": [
+        "Primera version: Tycoon solo con plugins y paquete de recursos"
+      ]
     }
   },
   "news": [

@@ -22,7 +22,7 @@
     },
     "tycoon": {
       "name": "Zeres Tycoon test",
-      "version": "0.1.10",
+      "version": "0.1.11",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,10 +30,11 @@
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Vuelven los corazones, la comida y la armadura"
+        "Iconos nuevos: cajas, llaves, pociones, sacos y monedas",
+        "Icono de minerales para la armería"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.10/zeres-tycoon-0.1.10.mrpack",
-      "sha1": "57581311d6aea17adac202b59858ace769cb271c",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.11/zeres-tycoon-0.1.11.mrpack",
+      "sha1": "a6d4d654273ce451064beae54f7fd4fc69e5f415",
       "public_server": "shrimp-montana.tun.ply.gg:56966"
     }
   },

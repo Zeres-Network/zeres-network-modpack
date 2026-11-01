@@ -33,7 +33,8 @@
         "Tycoon 1.1: mascotas, niveles de taladros, ascension, obby, misiones diarias, eventos y codigos"
       ],
       "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.7/zeres-tycoon-0.1.7.mrpack",
-      "sha1": "bc3cdf159d8f0847d8581816c38a06dfba8d8c65"
+      "sha1": "bc3cdf159d8f0847d8581816c38a06dfba8d8c65",
+      "public_server": "shrimp-montana.tun.ply.gg:56966"
     }
   },
   "news": [

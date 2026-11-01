@@ -20,20 +20,20 @@
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     },
-    "rpg": {
-      "name": "Zeres RPG test",
-      "version": "0.1.4",
+    "tycoon": {
+      "name": "Zeres Tycoon test",
+      "version": "0.1.6",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
         "port": 25566
       },
-      "local_server": "Desktop/dev/ZeresRPG/servidor",
+      "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Arreglado de verdad: en 26.3 el clic izquierdo es el boton 1; los botones y la X ya responden"
+        "Nueva modalidad: Zeres Tycoon (sustituye al RPG test)"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.4/zeres-rpg-0.1.4.mrpack",
-      "sha1": "5b17874e37eb3dca4a66a5b57200b153367c3c28"
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.6/zeres-tycoon-0.1.6.mrpack",
+      "sha1": "cf1b2edf4a4a887f70abeec1aa39917496166bbb"
     }
   },
   "news": [

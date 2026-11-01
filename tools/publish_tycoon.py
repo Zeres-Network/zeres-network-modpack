@@ -30,7 +30,7 @@ def main():
     os.makedirs(os.path.join(ROOT, "tycoon"), exist_ok=True)
     out = os.path.join(ROOT, "tycoon", f"zeres-tycoon-{version}.mrpack")
     index = {"formatVersion": 1, "game": "minecraft", "versionId": version, "name": "Zeres Tycoon test",
-             "summary": "Modalidad Tycoon de Zeres Network (pruebas)", "files": [modrinth_file("fabric-api", FABRIC_API)],
+             "summary": "Modalidad Tycoon de Zeres Network (pruebas)", "files": [modrinth_file("fabric-api", FABRIC_API), modrinth_file("logical-zoom", "0.0.37")],
              "dependencies": {"minecraft": MC, "fabric-loader": LOADER}}
     with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("modrinth.index.json", json.dumps(index, indent=2))

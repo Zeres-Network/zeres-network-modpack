@@ -46,11 +46,6 @@
   ],
   "staff": [
     {
-      "name": "Dayscraft",
-      "code_sha256": "81dcd87788291e678c2435ad026011b9d098d052d1a6252c3794bfb9f2f1692a",
-      "uuid": ""
-    },
-    {
       "name": "Favnoob",
       "code_sha256": "f07724cf1bc438715f5b232385c1e2895ca4024862db761bfc798314075eeeeb"
     },
@@ -61,6 +56,10 @@
     {
       "name": "gabyboss10",
       "code_sha256": "973a5fcb6370fe4d1d53045f9417016ed1e569fa35c0be47f7b0d00c7153c61b"
+    },
+    {
+      "name": "Dayscraft",
+      "code_sha256": "8b0402315975ed1cafb64315115a9c6c642811731044b1c25f300c62ac0da765"
     }
   ]
 }

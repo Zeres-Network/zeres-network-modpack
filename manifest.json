@@ -19,6 +19,19 @@
         "Pantallas grandes comprimidas; ficha del arbol de misiones"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
+    },
+    "rpg": {
+      "name": "Zeres RPG test",
+      "version": "26.3-0.1",
+      "minecraft": "26.3",
+      "server": {
+        "host": "127.0.0.1",
+        "port": 25566
+      },
+      "local_server": "Desktop/dev/ZeresRPG/servidor",
+      "notes": [
+        "Primera prueba del RPG: clases, hechizos, misiones, mazmorras y jefes"
+      ]
     }
   },
   "news": [

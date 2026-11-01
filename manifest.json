@@ -22,7 +22,7 @@
     },
     "tycoon": {
       "name": "Zeres Tycoon test",
-      "version": "0.1.14",
+      "version": "0.1.15",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,12 +30,12 @@
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Mascotas 3D, fundidoras, arcos y decoracion nuevos",
-        "Menu en dos filas",
-        "Mercado, pase de temporada y duelos (con la 1.7.0 del servidor)"
+        "Textos completos en la tablet",
+        "Dinero en vivo en el menu",
+        "Marcador nuevo, objetos fisicos, /trade, /nick y jefe rehecho (con la 1.8.0 del servidor)"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.14/zeres-tycoon-0.1.14.mrpack",
-      "sha1": "1f9e000327a47b4d54977c8b92ad343fb9faa3c6",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.15/zeres-tycoon-0.1.15.mrpack",
+      "sha1": "8bdf69cd67739a4160406a14de45a62ee2a5dd3b",
       "public_server": "shrimp-montana.tun.ply.gg:56966"
     }
   },

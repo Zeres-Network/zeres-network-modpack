@@ -22,7 +22,7 @@
     },
     "rpg": {
       "name": "Zeres RPG test",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,10 +30,10 @@
       },
       "local_server": "Desktop/dev/ZeresRPG/servidor",
       "notes": [
-        "Tiendas de la Herrera y el Mercader, icono en el panel"
+        "Arreglado: los botones de las pantallas no hacian nada"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.2/zeres-rpg-0.1.2.mrpack",
-      "sha1": "7e23282bb16d710cf586568bde3d1d3556f090c4"
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.3/zeres-rpg-0.1.3.mrpack",
+      "sha1": "6e2b565785710836381df9bc0c08ac9319798838"
     }
   },
   "news": [

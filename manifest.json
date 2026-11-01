@@ -22,7 +22,7 @@
     },
     "rpg": {
       "name": "Zeres RPG test",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,10 +30,10 @@
       },
       "local_server": "Desktop/dev/ZeresRPG/servidor",
       "notes": [
-        "Arreglado: los botones de las pantallas no hacian nada"
+        "Arreglado de verdad: en 26.3 el clic izquierdo es el boton 1; los botones y la X ya responden"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.3/zeres-rpg-0.1.3.mrpack",
-      "sha1": "6e2b565785710836381df9bc0c08ac9319798838"
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.4/zeres-rpg-0.1.4.mrpack",
+      "sha1": "5b17874e37eb3dca4a66a5b57200b153367c3c28"
     }
   },
   "news": [

@@ -22,7 +22,7 @@
     },
     "tycoon": {
       "name": "Zeres Tycoon test",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,10 +30,10 @@
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Nueva modalidad: Zeres Tycoon (sustituye al RPG test)"
+        "Tycoon 1.1: mascotas, niveles de taladros, ascension, obby, misiones diarias, eventos y codigos"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.6/zeres-tycoon-0.1.6.mrpack",
-      "sha1": "cf1b2edf4a4a887f70abeec1aa39917496166bbb"
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.7/zeres-tycoon-0.1.7.mrpack",
+      "sha1": "bc3cdf159d8f0847d8581816c38a06dfba8d8c65"
     }
   },
   "news": [

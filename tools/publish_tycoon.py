@@ -1,4 +1,4 @@
-"""Publica el modpack de la edición Tycoon test (Minecraft 26.3, canal dev del launcher): Fabric + Fabric API (desde
+"""Publica el modpack de la edición Tycoon test (Minecraft 26.3, canal dev del launcher): Fabric + Fabric API, Logical Zoom y Xaero (desde
 Modrinth) + ZeresRPG Client (motor de pantallas, dentro del pack). Crea el release tycoon-<version>, actualiza la instancia "tycoon" de
 manifest.json (conserva server y local_server) y hace push.
 Uso:  python tools/publish_tycoon.py <version> <jar de ZeresRPG Client> "Novedad" ["Novedad"...]
@@ -30,7 +30,8 @@ def main():
     os.makedirs(os.path.join(ROOT, "tycoon"), exist_ok=True)
     out = os.path.join(ROOT, "tycoon", f"zeres-tycoon-{version}.mrpack")
     index = {"formatVersion": 1, "game": "minecraft", "versionId": version, "name": "Zeres Tycoon test",
-             "summary": "Modalidad Tycoon de Zeres Network (pruebas)", "files": [modrinth_file("fabric-api", FABRIC_API), modrinth_file("logical-zoom", "0.0.37")],
+             "summary": "Modalidad Tycoon de Zeres Network (pruebas)", "files": [modrinth_file("fabric-api", FABRIC_API), modrinth_file("logical-zoom", "0.0.37"),
+                       modrinth_file("xaeros-minimap", "fabric-26.3-26.6.2"), modrinth_file("xaeros-world-map", "fabric-26.3-1.47.2")],
              "dependencies": {"minecraft": MC, "fabric-loader": LOADER}}
     with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("modrinth.index.json", json.dumps(index, indent=2))

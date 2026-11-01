@@ -22,7 +22,7 @@
     },
     "tycoon": {
       "name": "Zeres Tycoon test",
-      "version": "0.1.11",
+      "version": "0.1.12",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,11 +30,13 @@
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Iconos nuevos: cajas, llaves, pociones, sacos y monedas",
-        "Icono de minerales para la armería"
+        "Minimapa y mapa grande (Xaero, tecla M)",
+        "Brújula GPS y guía paso a paso",
+        "Música y sonidos propios",
+        "Comercio, clanes, temporadas, jefe de la plaza e Isla Celeste (con la 1.6.0 del servidor)"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.11/zeres-tycoon-0.1.11.mrpack",
-      "sha1": "a6d4d654273ce451064beae54f7fd4fc69e5f415",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.12/zeres-tycoon-0.1.12.mrpack",
+      "sha1": "3ddb76161e29b37ed582aa296ae15f489997c6ed",
       "public_server": "shrimp-montana.tun.ply.gg:56966"
     }
   },

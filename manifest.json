@@ -22,7 +22,7 @@
     },
     "rpg": {
       "name": "Zeres RPG test",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,10 +30,10 @@
       },
       "local_server": "Desktop/dev/ZeresRPG/servidor",
       "notes": [
-        "Menú de tarjetas, barras de vida y maná, combos de hechizo y diálogos de los NPCs"
+        "Tiendas de la Herrera y el Mercader, icono en el panel"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.1/zeres-rpg-0.1.1.mrpack",
-      "sha1": "82db5885e851a4cd15ded709010677f5da9bea5c"
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.2/zeres-rpg-0.1.2.mrpack",
+      "sha1": "7e23282bb16d710cf586568bde3d1d3556f090c4"
     }
   },
   "news": [

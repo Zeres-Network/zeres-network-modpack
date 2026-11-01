@@ -22,7 +22,7 @@
     },
     "rpg": {
       "name": "Zeres RPG test",
-      "version": "26.3-0.1",
+      "version": "0.1.0",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,8 +30,10 @@
       },
       "local_server": "Desktop/dev/ZeresRPG/servidor",
       "notes": [
-        "Primera prueba del RPG: clases, hechizos, misiones, mazmorras y jefes"
-      ]
+        "Primera versión con la interfaz: menú de tarjetas, barras de vida y maná, combos y diálogos"
+      ],
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/rpg-0.1.0/zeres-rpg-0.1.0.mrpack",
+      "sha1": "07c7989724964cb0ad085609ba6a0ad917c4ef0e"
     }
   },
   "news": [

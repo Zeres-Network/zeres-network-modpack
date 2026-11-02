@@ -22,7 +22,7 @@
     },
     "tycoon": {
       "name": "Zeres Tycoon test",
-      "version": "0.1.15",
+      "version": "0.1.16",
       "minecraft": "26.3",
       "server": {
         "host": "127.0.0.1",
@@ -30,12 +30,11 @@
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor",
       "notes": [
-        "Textos completos en la tablet",
-        "Dinero en vivo en el menu",
-        "Marcador nuevo, objetos fisicos, /trade, /nick y jefe rehecho (con la 1.8.0 del servidor)"
+        "Barra de la tablet que se arrastra",
+        "Modelos 3D nuevos: tesla, cohete, volcán, árbol del dinero, cristal, ojo y las máquinas de la terraza"
       ],
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.15/zeres-tycoon-0.1.15.mrpack",
-      "sha1": "8bdf69cd67739a4160406a14de45a62ee2a5dd3b",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoon-0.1.16/zeres-tycoon-0.1.16.mrpack",
+      "sha1": "29dd8d00e6b940f154ca61cbea7c5a8da80ec0c8",
       "public_server": "shrimp-montana.tun.ply.gg:56966"
     },
     "tycoonp": {

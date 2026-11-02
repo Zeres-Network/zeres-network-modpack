@@ -66,7 +66,8 @@
       "sha1": "c9304de32792254e7571c407dcace7332496383f",
       "notes": [
         "Primera version: 5 mapas, sala de espera y menu de inicio"
-      ]
+      ],
+      "public_server": "shrimp-simulated.tun.ply.gg:57655"
     }
   },
   "news": [

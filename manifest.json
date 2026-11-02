@@ -45,12 +45,12 @@
         "port": 25568
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor-plugins",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "minecraft": "26.3",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoonp-0.1.0/zeres-tycoon-plugins-0.1.0.mrpack",
-      "sha1": "66d330d3d72da8e160ec8ba10ee393b46fd05837",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoonp-0.1.1/zeres-tycoon-plugins-0.1.1.mrpack",
+      "sha1": "c83651e987583855078e70646bf1b444158bd1df",
       "notes": [
-        "Primera version: Tycoon solo con plugins y paquete de recursos"
+        "Menús nuevos: panel propio, iconos, marcos de color y textos con borde dorado"
       ]
     }
   },

@@ -44,12 +44,12 @@
         "port": 25568
       },
       "local_server": "Desktop/dev/ZeresTycoon/servidor-plugins",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "minecraft": "26.3",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoonp-0.1.1/zeres-tycoon-plugins-0.1.1.mrpack",
-      "sha1": "c83651e987583855078e70646bf1b444158bd1df",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/tycoonp-0.1.2/zeres-tycoon-plugins-0.1.2.mrpack",
+      "sha1": "99f7491d5c7fbafb11b12a5c845e3b4f962d925c",
       "notes": [
-        "Menús nuevos: panel propio, iconos, marcos de color y textos con borde dorado"
+        "Modelos 3D nuevos para las cintas y la terraza"
       ]
     },
     "front": {

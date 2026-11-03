@@ -12,9 +12,9 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.79",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.79/zeres-cobblemon-0.1.79.mrpack",
-      "sha1": "dce9389437c17ea52f1140d0f886d42f995d0ac3",
+      "version": "0.1.80",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.80/zeres-cobblemon-0.1.80.mrpack",
+      "sha1": "a6042b8dbefdd5e12ff7c6a94ab2a818f7cf771c",
       "notes": [
         "Mejoras en las pantallas"
       ],
@@ -72,7 +72,7 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.79",
+      "title": "Modpack 0.1.80",
       "text": "Mejoras en las pantallas"
     }
   ],

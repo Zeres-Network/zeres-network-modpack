@@ -12,11 +12,11 @@
     },
     "cobblemon": {
       "name": "Zeres Cobblemon",
-      "version": "0.1.77",
-      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.77/zeres-cobblemon-0.1.77.mrpack",
-      "sha1": "0f26292e03f9ca87bddc24a93b9868031a5ad276",
+      "version": "0.1.78",
+      "mrpack": "https://github.com/Zeres-Network/zeres-network-modpack/releases/download/cobblemon-0.1.78/zeres-cobblemon-0.1.78.mrpack",
+      "sha1": "097c67931c68b558e5146cf9ff2a5e25f78c8cac",
       "notes": [
-        "Pantallas grandes comprimidas; ficha del arbol de misiones"
+        "Mejoras en las pantallas"
       ],
       "packs_repo": "Zeres-Network/zeres-resourcepacks"
     },
@@ -72,8 +72,8 @@
   "news": [
     {
       "tag": "COBBLEMON",
-      "title": "Modpack 0.1.77",
-      "text": "Pantallas grandes comprimidas; ficha del arbol de misiones"
+      "title": "Modpack 0.1.78",
+      "text": "Mejoras en las pantallas"
     }
   ],
   "staff": [
